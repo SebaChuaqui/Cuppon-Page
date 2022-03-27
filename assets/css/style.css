@@ -1,0 +1,51 @@
+body {
+	font-family: Roboto, sans-serif;
+}
+
+nav{
+	background-color: #28a745;
+}
+
+p{
+	color: #707070;
+}
+
+.v-title{
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.v-company {
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.v-address {
+	font-size: 13px;
+	font-weight: 300;
+}
+
+.precio-antes {
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.precio-ahora {
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.contacto-title {
+	font-size: 21px;
+	font-weight: 500;
+}
+
+.fondo-color{
+	background-color: #28a745;
+}
+
+footer {
+	font-size: 16px;
+	font-weight: 300;
+	color: #707070;
+}
